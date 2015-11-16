@@ -99,7 +99,7 @@ dependencies:
     uri: https://pivotal-buildpacks.s3.amazonaws.com/ruby/binaries/lucid64/ruby-1.9.3.tgz
     md5: ddc41f840dd5752598be9fc1da75ea3d
     cf_stacks:
-      - lucid64
+      - cflinuxfs2
   - name: jruby
     version: ruby-1.9.3-jruby-1.7.22
     uri: https://pivotal-buildpacks.s3.amazonaws.com/concourse-binaries/jruby/jruby-1.7.22_ruby-1.9.3-linux-x64.tgz
